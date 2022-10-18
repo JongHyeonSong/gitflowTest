@@ -1,3 +1,5 @@
+lega1
+
 # gitflowTest
 깃플로우테스트1
 
@@ -8,3 +10,4 @@ md wow
 
 zz
 zz
+
