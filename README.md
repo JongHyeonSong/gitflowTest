@@ -1,3 +1,11 @@
+k1
+
+
+lega7
+lega6
+lega5
+lega4
+lega3
 lega2
 lega1
 
